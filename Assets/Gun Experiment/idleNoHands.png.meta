@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 01569ccf4cd846f48926c64f9de11be8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7447186821479069224
+    second: idleNoHands_0
+  - first:
+      213: -8946227834953359283
+    second: idleNoHands_1
+  - first:
+      213: 8057662830953082140
+    second: idleNoHands_2
+  - first:
+      213: 2886000493733025445
+    second: idleNoHands_3
+  - first:
+      213: 1573512090793950260
+    second: idleNoHands_4
+  - first:
+      213: -5954143182057509344
+    second: idleNoHands_5
+  - first:
+      213: 6623501425925909128
+    second: idleNoHands_6
+  - first:
+      213: 3467797528324251713
+    second: idleNoHands_7
+  - first:
+      213: 8528391370784521546
+    second: idleNoHands_8
+  - first:
+      213: -4720851681576194000
+    second: idleNoHands_9
+  - first:
+      213: -958703738980064741
+    second: idleNoHands_10
+  - first:
+      213: -5929394849755425278
+    second: idleNoHands_11
+  - first:
+      213: -3764218986410201105
+    second: idleNoHands_12
+  - first:
+      213: -3957829229792898358
+    second: idleNoHands_13
+  - first:
+      213: 8897647064150468338
+    second: idleNoHands_14
+  - first:
+      213: 3424438126985540476
+    second: idleNoHands_15
+  - first:
+      213: 8412055038841010517
+    second: idleNoHands_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idleNoHands_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826fa3e05f8b95760800000000000000
+      internalID: 7447186821479069224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40a4e9ee2d98d380800000000000000
+      internalID: -8946227834953359283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1da3d647a192df60800000000000000
+      internalID: 8057662830953082140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 8
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a61f8a88222d0820800000000000000
+      internalID: 2886000493733025445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3e85e8ec36d510800000000000000
+      internalID: 1573512090793950260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 8
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ee5a38252ae5da0800000000000000
+      internalID: -5954143182057509344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 8
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a6b9d34776beb50800000000000000
+      internalID: 6623501425925909128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 8
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140aeb49a77102030800000000000000
+      internalID: 3467797528324251713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 8
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d3e1134ceea5670800000000000000
+      internalID: 8528391370784521546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleNoHands_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0307852686a2c7eb0800000000000000
+      internalID: -4720851681576194000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 203d3bf17daa6194d80e02809bd9f326
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idleNoHands_0: 7447186821479069224
+      idleNoHands_1: -8946227834953359283
+      idleNoHands_10: -958703738980064741
+      idleNoHands_11: -5929394849755425278
+      idleNoHands_12: -3764218986410201105
+      idleNoHands_13: -3957829229792898358
+      idleNoHands_14: 8897647064150468338
+      idleNoHands_15: 3424438126985540476
+      idleNoHands_16: 8412055038841010517
+      idleNoHands_2: 8057662830953082140
+      idleNoHands_3: 2886000493733025445
+      idleNoHands_4: 1573512090793950260
+      idleNoHands_5: -5954143182057509344
+      idleNoHands_6: 6623501425925909128
+      idleNoHands_7: 3467797528324251713
+      idleNoHands_8: 8528391370784521546
+      idleNoHands_9: -4720851681576194000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
