@@ -144,6 +144,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -534,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      idleNoHands_0: 7447186821479069224
+      idleNoHands_1: -8946227834953359283
+      idleNoHands_10: -958703738980064741
+      idleNoHands_11: -5929394849755425278
+      idleNoHands_12: -3764218986410201105
+      idleNoHands_13: -3957829229792898358
+      idleNoHands_14: 8897647064150468338
+      idleNoHands_15: 3424438126985540476
+      idleNoHands_16: 8412055038841010517
+      idleNoHands_2: 8057662830953082140
+      idleNoHands_3: 2886000493733025445
+      idleNoHands_4: 1573512090793950260
+      idleNoHands_5: -5954143182057509344
+      idleNoHands_6: 6623501425925909128
+      idleNoHands_7: 3467797528324251713
+      idleNoHands_8: 8528391370784521546
+      idleNoHands_9: -4720851681576194000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

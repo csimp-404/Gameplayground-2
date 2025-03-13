@@ -144,6 +144,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -534,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      katanaIdle_0: 8731021421426994590
+      katanaIdle_1: -6575894337487575207
+      katanaIdle_10: 4986951590819054080
+      katanaIdle_11: -3805466126212967094
+      katanaIdle_12: 6172781956737350640
+      katanaIdle_13: 3785399195145250772
+      katanaIdle_14: 6546762362799961339
+      katanaIdle_15: -2861739091050922332
+      katanaIdle_16: 2692173414147884109
+      katanaIdle_2: 7009596517713366664
+      katanaIdle_3: 1516134129795344289
+      katanaIdle_4: -1799328805913549437
+      katanaIdle_5: -5753534382703969681
+      katanaIdle_6: 2890474172419068008
+      katanaIdle_7: 7182701558930141045
+      katanaIdle_8: -1758929758495259057
+      katanaIdle_9: -7547366946806942481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

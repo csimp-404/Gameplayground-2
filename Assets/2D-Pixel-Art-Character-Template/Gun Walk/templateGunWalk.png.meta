@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -309,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      templateGunWalk_0: 5252202331886193178
+      templateGunWalk_1: -939836701241287958
+      templateGunWalk_2: 2206665211886845474
+      templateGunWalk_3: -8360980914991874085
+      templateGunWalk_4: 3982696144534039750
+      templateGunWalk_5: -4958622975379320330
+      templateGunWalk_6: 5681984222739317308
+      templateGunWalk_7: -8859962629699538771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
