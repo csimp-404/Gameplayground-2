@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\dhjj2\\Game Playground 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|c:\\users\\dhjj2\\game playground 2\\assets\\dynamiclayering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\dynamiclayering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|c:\\users\\dhjj2\\game playground 2\\assets\\toggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\toggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|c:\\users\\dhjj2\\game playground 2\\assets\\characterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|C:\\Users\\dhjj2\\Game Playground 2\\assets\\characterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\characterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,6 +67,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DynamicLayering.cs",
+              "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\DynamicLayering.cs",
+              "RelativeDocumentMoniker": "Assets\\DynamicLayering.cs",
+              "ToolTip": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\DynamicLayering.cs",
+              "RelativeToolTip": "Assets\\DynamicLayering.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:58:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Toggle.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Toggle.cs",
               "RelativeDocumentMoniker": "Assets\\Toggle.cs",
@@ -75,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CharacterAttack.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterAttack.cs",
               "RelativeDocumentMoniker": "Assets\\CharacterAttack.cs",
@@ -83,12 +104,11 @@
               "RelativeToolTip": "Assets\\CharacterAttack.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:00:23.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T18:00:23.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Bullet.cs",
@@ -100,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Weapon.cs",
@@ -112,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\Item.cs",
@@ -124,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\FollowPlayer.cs",
@@ -136,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CharacterInventory.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterInventory.cs",
               "RelativeDocumentMoniker": "Assets\\CharacterInventory.cs",
@@ -148,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CharacterMovement.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterMovement.cs",
               "RelativeDocumentMoniker": "Assets\\CharacterMovement.cs",
@@ -160,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Character.cs",
               "RelativeDocumentMoniker": "Assets\\Character.cs",
@@ -172,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FollowCursor.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\FollowCursor.cs",
               "RelativeDocumentMoniker": "Assets\\FollowCursor.cs",
@@ -184,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BalancedCharacter.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\BalancedCharacter.cs",
               "RelativeDocumentMoniker": "Assets\\BalancedCharacter.cs",
@@ -196,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CharacterStats.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterStats.cs",
               "RelativeDocumentMoniker": "Assets\\CharacterStats.cs",
@@ -205,10 +225,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T17:58:37.679Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

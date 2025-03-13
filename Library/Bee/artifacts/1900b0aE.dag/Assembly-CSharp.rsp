@@ -447,6 +447,7 @@
 "Assets/CharacterInventory.cs"
 "Assets/CharacterMovement.cs"
 "Assets/CharacterStats.cs"
+"Assets/DynamicLayering.cs"
 "Assets/FollowCursor.cs"
 "Assets/FollowPlayer.cs"
 "Assets/Item.cs"
