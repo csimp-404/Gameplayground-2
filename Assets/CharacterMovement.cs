@@ -23,15 +23,9 @@ public class CharacterMovement : MonoBehaviour
         // Read movement input from keyboard
         movementInput.x = Input.GetAxisRaw("Horizontal"); // A/D or Left/Right Arrow
         movementInput.y = Input.GetAxisRaw("Vertical");   // W/S or Up/Down Arrow
-        if (movementInput.x > 0)
+        if (movementInput.x != 0)
         {
-            spriteRenderer.flipX = false;
-            FlipChildren(false);
-        }
-        else if (movementInput.x < 0)
-        {
-            spriteRenderer.flipX = true;
-            FlipChildren(true);
+            transform.localScale = new Vector3(Mathf.Sign(movementInput.x), 1, 1);
         }
     }
 
@@ -42,18 +36,6 @@ public class CharacterMovement : MonoBehaviour
         anim.SetFloat("Speed", rb.linearVelocity.magnitude);
     }
 
-    private void FlipChildren(bool flip)
-    {
-        foreach (Transform child in transform)
-        {
-            // Check if the child has a SpriteRenderer component
-            SpriteRenderer childSprite = child.GetComponent<SpriteRenderer>();
-            if (childSprite != null)
-            {
-                // Flip the sprite renderer (without affecting the scale)
-                childSprite.flipX = flip;
-            }
-        }
-    }
+
 }
 
