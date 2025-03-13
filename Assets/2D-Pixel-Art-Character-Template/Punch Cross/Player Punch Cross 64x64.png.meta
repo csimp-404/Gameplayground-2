@@ -64,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -143,10 +143,10 @@ TextureImporter:
       name: Player Punch Cross 64x64_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 15
-        width: 19
-        height: 22
+        x: 20
+        y: 16
+        width: 17
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,10 +165,10 @@ TextureImporter:
       name: Player Punch Cross 64x64_1
       rect:
         serializedVersion: 2
-        x: 24
-        y: 36
-        width: 10
-        height: 10
+        x: 87
+        y: 16
+        width: 41
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,10 +187,10 @@ TextureImporter:
       name: Player Punch Cross 64x64_2
       rect:
         serializedVersion: 2
-        x: 86
-        y: 15
-        width: 43
-        height: 25
+        x: 161
+        y: 16
+        width: 29
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,10 +209,10 @@ TextureImporter:
       name: Player Punch Cross 64x64_3
       rect:
         serializedVersion: 2
-        x: 160
-        y: 15
-        width: 31
-        height: 23
+        x: 225
+        y: 16
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +231,10 @@ TextureImporter:
       name: Player Punch Cross 64x64_4
       rect:
         serializedVersion: 2
-        x: 224
-        y: 15
-        width: 22
-        height: 27
+        x: 287
+        y: 16
+        width: 13
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +253,10 @@ TextureImporter:
       name: Player Punch Cross 64x64_5
       rect:
         serializedVersion: 2
-        x: 286
-        y: 15
-        width: 15
-        height: 31
+        x: 337
+        y: 16
+        width: 20
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,10 +275,10 @@ TextureImporter:
       name: Player Punch Cross 64x64_6
       rect:
         serializedVersion: 2
-        x: 341
-        y: 34
-        width: 10
-        height: 10
+        x: 402
+        y: 16
+        width: 19
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,77 +293,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Player Punch Cross 64x64_7
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 15
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b64dbc8bbdf8f620800000000000000
-      internalID: 2808273349627430583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player Punch Cross 64x64_8
-      rect:
-        serializedVersion: 2
-        x: 406
-        y: 35
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be92e3edcfa370c30800000000000000
-      internalID: 4325490824847436267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player Punch Cross 64x64_9
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 15
-        width: 22
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2263d5f3a63f5c80800000000000000
-      internalID: -8331880707780287953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8d9da5637e06da748a69fdc2f5b95420
     internalID: 0
     vertices: []
     indices: 
