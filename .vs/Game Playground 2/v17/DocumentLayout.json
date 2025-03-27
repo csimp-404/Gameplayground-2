@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\dhjj2\\Game Playground 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|C:\\Users\\dhjj2\\Game Playground 2\\assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|C:\\Users\\dhjj2\\Game Playground 2\\assets\\characterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\characterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|c:\\users\\dhjj2\\game playground 2\\assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,11 +19,11 @@
       "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|c:\\users\\dhjj2\\game playground 2\\assets\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|C:\\Users\\dhjj2\\Game Playground 2\\assets\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|c:\\users\\dhjj2\\game playground 2\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|C:\\Users\\dhjj2\\Game Playground 2\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|C:\\Users\\dhjj2\\Game Playground 2\\assets\\toggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\toggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|C:\\Users\\dhjj2\\Game Playground 2\\assets\\characterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|solutionrelative:assets\\characterattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9D45276-09D4-B0F7-0224-0E6A52B6BD9A}|Assembly-CSharp.csproj|C:\\Users\\dhjj2\\Game Playground 2\\assets\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Gun.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Gun.cs",
               "RelativeDocumentMoniker": "Assets\\Gun.cs",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "Assets\\Gun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T19:23:10.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T19:23:10.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Bullet.cs",
@@ -95,12 +94,11 @@
               "RelativeToolTip": "Assets\\Bullet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T19:29:46.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T19:29:46.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DynamicLayering.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\DynamicLayering.cs",
               "RelativeDocumentMoniker": "Assets\\DynamicLayering.cs",
@@ -112,7 +110,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "CharacterAttack.cs",
+              "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\CharacterAttack.cs",
+              "ToolTip": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterAttack.cs",
+              "RelativeToolTip": "Assets\\CharacterAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:00:23.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Toggle.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Toggle.cs",
               "RelativeDocumentMoniker": "Assets\\Toggle.cs",
@@ -124,19 +139,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CharacterAttack.cs",
-              "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\CharacterAttack.cs",
-              "ToolTip": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterAttack.cs",
-              "RelativeToolTip": "Assets\\CharacterAttack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "DocumentIndex": 1,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\CharacterMovement.cs",
+              "ToolTip": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\CharacterMovement.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:00:23.902Z"
+              "WhenOpened": "2025-03-11T17:59:40.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Weapon.cs",
@@ -144,8 +160,7 @@
               "RelativeToolTip": "Assets\\Weapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T19:14:09.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T19:14:09.705Z"
             },
             {
               "$type": "Document",
@@ -161,20 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CharacterMovement.cs",
-              "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\CharacterMovement.cs",
-              "ToolTip": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterMovement.cs",
-              "RelativeToolTip": "Assets\\CharacterMovement.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T17:59:40.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CharacterStats.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\CharacterStats.cs",
               "RelativeDocumentMoniker": "Assets\\CharacterStats.cs",
@@ -182,16 +184,11 @@
               "RelativeToolTip": "Assets\\CharacterStats.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T17:58:37.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-03-11T17:58:37.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BulletCasing.cs",
               "DocumentMoniker": "C:\\Users\\dhjj2\\Game Playground 2\\Assets\\BulletCasing.cs",
               "RelativeDocumentMoniker": "Assets\\BulletCasing.cs",
