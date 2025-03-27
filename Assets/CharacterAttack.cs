@@ -12,11 +12,23 @@ public class CharacterCombat : MonoBehaviour
     private Rigidbody2D rb;
     private CharacterStats stats;
 
+    private bool isAttacking;
+    private int clickCount;
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         stats = GetComponent<CharacterStats>();
         anim = GetComponent<Animator>();
     }
-   
+
+    private void Update()
+    {
+       
+    }
+
+    private void FixedUpdate()
+    {
+        
+    }
 }
