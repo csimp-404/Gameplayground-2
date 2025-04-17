@@ -7,6 +7,8 @@ public class CharacterMovement : MonoBehaviour
     private Vector2 movementInput;
     private SpriteRenderer spriteRenderer;
     private Animator anim;
+    public CharacterAttack attackScript;
+
 
     public bool isSprinting;
     private float speed;
@@ -19,14 +21,25 @@ public class CharacterMovement : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
         speed = stats.moveSpeed;
+        attackScript = GetComponent<CharacterAttack>();
+
 
     }
 
     private void Update()
     {
-        // Read movement input from keyboard
-        movementInput.x = Input.GetAxisRaw("Horizontal"); // A/D or Left/Right Arrow
-        movementInput.y = Input.GetAxisRaw("Vertical");   // W/S or Up/Down Arrow
+        if (attackScript != null && attackScript.IsAttacking)
+        {
+            GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
+            return;
+        }
+
+        if (!attackScript.IsAttacking && !anim.GetCurrentAnimatorStateInfo(0).IsTag("Attack"))
+        {
+            movementInput.x = Input.GetAxisRaw("Horizontal"); // A/D or Left/Right Arrow
+            movementInput.y = Input.GetAxisRaw("Vertical");   // W/S or Up/Down Arrow
+        }
+        
 
         if (movementInput.x != 0)
         {

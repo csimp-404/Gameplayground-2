@@ -449,11 +449,16 @@
 "Assets/CharacterMovement.cs"
 "Assets/CharacterStats.cs"
 "Assets/DynamicLayering.cs"
+"Assets/EnemyAttack.cs"
+"Assets/EnemyCombat.cs"
+"Assets/EnemyController.cs"
 "Assets/FollowCursor.cs"
 "Assets/FollowPlayer.cs"
 "Assets/Gun.cs"
 "Assets/Item.cs"
+"Assets/Katana.cs"
 "Assets/Toggle.cs"
+"Assets/UnarmedWeapon.cs"
 "Assets/Weapon.cs"
 -langversion:9.0
 /deterministic

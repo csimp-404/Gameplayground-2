@@ -74,7 +74,12 @@
     <Compile Include="Assets\Toggle.cs" />
     <Compile Include="Assets\FollowCursor.cs" />
     <Compile Include="Assets\Weapon.cs" />
+    <Compile Include="Assets\EnemyController.cs" />
+    <Compile Include="Assets\EnemyCombat.cs" />
+    <Compile Include="Assets\EnemyAttack.cs" />
+    <Compile Include="Assets\Katana.cs" />
     <Compile Include="Assets\CharacterInventory.cs" />
+    <Compile Include="Assets\UnarmedWeapon.cs" />
     <Compile Include="Assets\CharacterStats.cs" />
   </ItemGroup>
   <ItemGroup>
