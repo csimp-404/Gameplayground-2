@@ -4,6 +4,8 @@ public class EnemyCombat : MonoBehaviour
 {
     public float maxHealth = 100f;
     private float currentHealth;
+    public float CurrentHealth => currentHealth;
+
 
     private Animator anim;
     private bool isDead = false;
@@ -15,7 +17,7 @@ public class EnemyCombat : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
-    public void TakeDamage(float damage)
+    public void TakeDamage(float damage, Vector2 knockback)
     {
         if (isDead) return;
 
@@ -26,6 +28,12 @@ public class EnemyCombat : MonoBehaviour
         // Play hit reaction animation
         if (anim != null)
             anim.SetTrigger("Hit");
+
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        if (rb != null)
+        {
+            rb.AddForce(knockback, ForceMode2D.Impulse);
+        }
 
         if (currentHealth <= 0)
         {
