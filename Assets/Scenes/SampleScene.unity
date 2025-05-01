@@ -2234,6 +2234,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6cd1b4365f767e4ebf4d4b31b62d9f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  attackScript: {fileID: 0}
   isSprinting: 0
 --- !u!114 &708960130
 MonoBehaviour:
@@ -2252,6 +2253,7 @@ MonoBehaviour:
   attackPower: 0
   defense: 0
   moveSpeed: 0.6
+  knockback: {x: 0, y: 0}
 --- !u!114 &708960131
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2317,6 +2319,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 708960132}
+  rb: {fileID: 708960127}
   startingWeapon: {fileID: 345435394}
   currentWeapon: {fileID: 345435394}
 --- !u!114 &708960135

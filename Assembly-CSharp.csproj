@@ -61,26 +61,26 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Gun.cs" />
-    <Compile Include="Assets\BalancedCharacter.cs" />
-    <Compile Include="Assets\FollowPlayer.cs" />
-    <Compile Include="Assets\Item.cs" />
-    <Compile Include="Assets\DynamicLayering.cs" />
-    <Compile Include="Assets\BulletCasing.cs" />
-    <Compile Include="Assets\CharacterAttack.cs" />
-    <Compile Include="Assets\Bullet.cs" />
-    <Compile Include="Assets\Character.cs" />
-    <Compile Include="Assets\CharacterMovement.cs" />
+    <Compile Include="Assets\Weapons\GunStuff\Bullet.cs" />
+    <Compile Include="Assets\Enemy Handling\EnemyController.cs" />
+    <Compile Include="Assets\Charcter Handling\CharacterStats.cs" />
+    <Compile Include="Assets\Camera\FollowCursor.cs" />
+    <Compile Include="Assets\Weapons\GunStuff\BulletCasing.cs" />
+    <Compile Include="Assets\ItemSystem\Item.cs" />
+    <Compile Include="Assets\Camera\FollowPlayer.cs" />
+    <Compile Include="Assets\ItemSystem\Weapon.cs" />
     <Compile Include="Assets\Toggle.cs" />
-    <Compile Include="Assets\FollowCursor.cs" />
-    <Compile Include="Assets\Weapon.cs" />
-    <Compile Include="Assets\EnemyController.cs" />
-    <Compile Include="Assets\EnemyCombat.cs" />
-    <Compile Include="Assets\EnemyAttack.cs" />
-    <Compile Include="Assets\Katana.cs" />
-    <Compile Include="Assets\CharacterInventory.cs" />
-    <Compile Include="Assets\UnarmedWeapon.cs" />
-    <Compile Include="Assets\CharacterStats.cs" />
+    <Compile Include="Assets\Enemy Handling\EnemyAttack.cs" />
+    <Compile Include="Assets\Weapons\Gun.cs" />
+    <Compile Include="Assets\Enemy Handling\EnemyCombat.cs" />
+    <Compile Include="Assets\Charcter Handling\Character.cs" />
+    <Compile Include="Assets\Charcter Handling\BalancedCharacter.cs" />
+    <Compile Include="Assets\Charcter Handling\CharacterInventory.cs" />
+    <Compile Include="Assets\Weapons\UnarmedWeapon.cs" />
+    <Compile Include="Assets\Charcter Handling\CharacterMovement.cs" />
+    <Compile Include="Assets\World\DynamicLayering.cs" />
+    <Compile Include="Assets\Weapons\Katana.cs" />
+    <Compile Include="Assets\Charcter Handling\CharacterAttack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Free-Melee-Weapon-Pixel-Icons-for-Cyberpunk\Font.txt" />
