@@ -5,7 +5,7 @@ public class Character : MonoBehaviour
     public string characterName;
     public CharacterStats stats;
     public CharacterMovement characterMovement;
-    public CharacterCombat characterCombat;
+    public CharacterAttack characterCombat;
     public CharacterInventory characterInventory;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -13,7 +13,7 @@ public class Character : MonoBehaviour
     {
         stats = GetComponent<CharacterStats>();
         characterMovement = GetComponent<CharacterMovement>();
-        characterCombat = GetComponent<CharacterCombat>();
+        characterCombat = GetComponent<CharacterAttack>();
         characterInventory = GetComponent<CharacterInventory>();
         if (stats == null || characterMovement == null || characterCombat == null || characterInventory == null)
         {
